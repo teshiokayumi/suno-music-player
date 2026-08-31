@@ -1,0 +1,49 @@
+{
+  "comment": "ここに曲を追加してください。file に audio/ フォルダ内のmp3を指定します（title で表示名、image でジャケット画像、pageUrl でSunoリンクを指定できます）。audio/ フォルダに入れただけの未登録mp3も自動でプレイリスト末尾に追加されます。旧形式の url（Suno共有リンク）も書けますが、現在Sunoは外部再生をブロックしているため再生できません。",
+  "songs": [
+    { "file": "audio/愛はいつもstudiomix.mp3", "title": "愛はいつも (studio mix)" },
+    { "file": "audio/愛はいつも doramtic.mp3", "title": "愛はいつも (dramatic)" },
+    { "file": "audio/愛はいつもインストゥルメンタル.mp3", "title": "愛はいつも (インストゥルメンタル)" },
+    { "file": "audio/インストゥルメンタル愛はいつも.mp3", "title": "インストゥルメンタル 愛はいつも" },
+    {
+      "file": "audio/迎えに来て僕が壊れてしまう前に.mp3",
+      "title": "迎えに来て僕が壊れてしまう前に",
+      "image": "https://cdn2.suno.ai/b002d54c-7dab-4bb6-b56b-f4f3dd3a63c8.jpeg",
+      "pageUrl": "https://suno.com/song/501b5073-7cbd-4a7c-8dcd-50809c0b1d6d?sh=jSpHXSjAp5SoxbeS"
+    },
+    {
+      "file": "audio/Dreamer.mp3",
+      "title": "Dreamer[Suger Tail Edition]",
+      "image": "https://cdn2.suno.ai/66fc3f87-b27e-485d-8a64-f8e45dc40e3b.jpeg",
+      "pageUrl": "https://suno.com/song/9e120d43-0157-4e19-81b7-822e49a87ef3?sh=UEuvrelamSUHMd7l"
+    },
+    {
+      "file": "audio/雨の後悔.mp3",
+      "title": "雨の後悔",
+      "image": "https://cdn2.suno.ai/714470ae-4507-4771-a523-752e3dbeba25.jpeg",
+      "pageUrl": "https://suno.com/song/a8297af2-2959-4fe0-91d3-903063bb9bc0?sh=kvT3IFjH2thqOfdz"
+    },
+    {
+      "file": "audio/月蝕──エクリプス.mp3",
+      "title": "月蝕──エクリプス",
+      "image": "https://cdn2.suno.ai/7dbf3dfc-969d-4c5d-a6e1-e23919fa1c9c.jpeg",
+      "pageUrl": "https://suno.com/song/d80b8656-43dc-4ed3-b255-c76c90dde865?sh=WtQHcEPKV16U0fWB"
+    },
+    {
+      "file": "audio/Adult Melon Soda — a childhood sweetness, now out of reach.mp3",
+      "title": "Adult Melon Soda — a childhood sweetness, now out of reach",
+      "image": "https://cdn2.suno.ai/3ba0be32-606e-48ce-982c-97724f496345_11f853c9.jpeg",
+      "pageUrl": "https://suno.com/song/3ba0be32-606e-48ce-982c-97724f496345?sh=vp0zvvNpgpK5tNrZ"
+    },
+    {
+      "file": "audio/愛憎.mp3",
+      "title": "愛憎",
+      "image": "https://cdn2.suno.ai/e3e7a610-3a0a-4aba-8c09-62c56b3e599d.jpeg",
+      "pageUrl": "https://suno.com/song/897ab57d-306d-454d-b7e9-6cc884e0b958?sh=MEP9cYHbBdOcgo5Y"
+    },
+    { "file": "audio/Madness Chapter III.Do you still think you're in love_.mp3", "title": "Madness Chapter III. Do you still think you're in love?" },
+    { "file": "audio/世界が明日終わるのなら[Suger Tail Edition].mp3", "title": "世界が明日終わるのなら[Suger Tail Edition]" },
+    { "file": "audio/帰れない雨.mp3", "title": "帰れない雨" },
+    { "file": "audio/Way to You.mp3", "title": "Way to You" }
+  ]
+}

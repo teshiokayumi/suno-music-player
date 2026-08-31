@@ -1,0 +1,7 @@
+# Claude Code のローカル設定（プレビューサーバー用）
+.claude/
+
+# OS が作る一時ファイル
+.DS_Store
+Thumbs.db
+desktop.ini

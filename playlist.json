@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-08-31T04:00:32.120Z",
+  "tracks": [
+    {
+      "sourceFile": "audio/愛はいつもstudiomix.mp3",
+      "title": "愛はいつも (studio mix)",
+      "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82studiomix.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつも doramtic.mp3",
+      "title": "愛はいつも (dramatic)",
+      "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%20doramtic.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつもインストゥルメンタル.mp3",
+      "title": "愛はいつも (インストゥルメンタル)",
+      "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/インストゥルメンタル愛はいつも.mp3",
+      "title": "インストゥルメンタル 愛はいつも",
+      "audio": "audio/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/迎えに来て僕が壊れてしまう前に.mp3",
+      "title": "迎えに来て僕が壊れてしまう前に",
+      "audio": "audio/%E8%BF%8E%E3%81%88%E3%81%AB%E6%9D%A5%E3%81%A6%E5%83%95%E3%81%8C%E5%A3%8A%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E5%89%8D%E3%81%AB.mp3",
+      "image": "https://cdn2.suno.ai/b002d54c-7dab-4bb6-b56b-f4f3dd3a63c8.jpeg",
+      "pageUrl": "https://suno.com/song/501b5073-7cbd-4a7c-8dcd-50809c0b1d6d?sh=jSpHXSjAp5SoxbeS"
+    },
+    {
+      "sourceFile": "audio/Dreamer.mp3",
+      "title": "Dreamer[Suger Tail Edition]",
+      "audio": "audio/Dreamer.mp3",
+      "image": "https://cdn2.suno.ai/66fc3f87-b27e-485d-8a64-f8e45dc40e3b.jpeg",
+      "pageUrl": "https://suno.com/song/9e120d43-0157-4e19-81b7-822e49a87ef3?sh=UEuvrelamSUHMd7l"
+    },
+    {
+      "sourceFile": "audio/雨の後悔.mp3",
+      "title": "雨の後悔",
+      "audio": "audio/%E9%9B%A8%E3%81%AE%E5%BE%8C%E6%82%94.mp3",
+      "image": "https://cdn2.suno.ai/714470ae-4507-4771-a523-752e3dbeba25.jpeg",
+      "pageUrl": "https://suno.com/song/a8297af2-2959-4fe0-91d3-903063bb9bc0?sh=kvT3IFjH2thqOfdz"
+    },
+    {
+      "sourceFile": "audio/月蝕──エクリプス.mp3",
+      "title": "月蝕──エクリプス",
+      "audio": "audio/%E6%9C%88%E8%9D%95%E2%94%80%E2%94%80%E3%82%A8%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B9.mp3",
+      "image": "https://cdn2.suno.ai/7dbf3dfc-969d-4c5d-a6e1-e23919fa1c9c.jpeg",
+      "pageUrl": "https://suno.com/song/d80b8656-43dc-4ed3-b255-c76c90dde865?sh=WtQHcEPKV16U0fWB"
+    },
+    {
+      "sourceFile": "audio/Adult Melon Soda — a childhood sweetness, now out of reach.mp3",
+      "title": "Adult Melon Soda — a childhood sweetness, now out of reach",
+      "audio": "audio/Adult%20Melon%20Soda%20%E2%80%94%20a%20childhood%20sweetness%2C%20now%20out%20of%20reach.mp3",
+      "image": "https://cdn2.suno.ai/3ba0be32-606e-48ce-982c-97724f496345_11f853c9.jpeg",
+      "pageUrl": "https://suno.com/song/3ba0be32-606e-48ce-982c-97724f496345?sh=vp0zvvNpgpK5tNrZ"
+    },
+    {
+      "sourceFile": "audio/愛憎.mp3",
+      "title": "愛憎",
+      "audio": "audio/%E6%84%9B%E6%86%8E.mp3",
+      "image": "https://cdn2.suno.ai/e3e7a610-3a0a-4aba-8c09-62c56b3e599d.jpeg",
+      "pageUrl": "https://suno.com/song/897ab57d-306d-454d-b7e9-6cc884e0b958?sh=MEP9cYHbBdOcgo5Y"
+    },
+    {
+      "sourceFile": "audio/Madness Chapter III.Do you still think you're in love_.mp3",
+      "title": "Madness Chapter III. Do you still think you're in love?",
+      "audio": "audio/Madness%20Chapter%20III.Do%20you%20still%20think%20you're%20in%20love_.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/世界が明日終わるのなら[Suger Tail Edition].mp3",
+      "title": "世界が明日終わるのなら[Suger Tail Edition]",
+      "audio": "audio/%E4%B8%96%E7%95%8C%E3%81%8C%E6%98%8E%E6%97%A5%E7%B5%82%E3%82%8F%E3%82%8B%E3%81%AE%E3%81%AA%E3%82%89%5BSuger%20Tail%20Edition%5D.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/帰れない雨.mp3",
+      "title": "帰れない雨",
+      "audio": "audio/%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%E9%9B%A8.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/Way to You.mp3",
+      "title": "Way to You",
+      "audio": "audio/Way%20to%20You.mp3",
+      "image": null
+    }
+  ]
+}
