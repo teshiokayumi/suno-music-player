@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T07:30:58.846Z",
+  "generatedAt": "2026-09-02T07:33:58.537Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -87,6 +87,24 @@
       "sourceFile": "audio/Way to You.mp3",
       "title": "Way to You",
       "audio": "audio/Way%20to%20You.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/COOL！.mp3",
+      "title": "COOL！",
+      "audio": "audio/COOL%EF%BC%81.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつも.mp3",
+      "title": "愛はいつも",
+      "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつもbigband.mp3",
+      "title": "愛はいつもbigband",
+      "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82bigband.mp3",
       "image": null
     }
   ]
