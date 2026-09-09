@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:37:53.844Z",
+  "generatedAt": "2026-09-09T20:42:49.292Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -102,9 +102,21 @@
       "image": null
     },
     {
+      "sourceFile": "audio/kiss me,kiss me.mp3",
+      "title": "kiss me,kiss me",
+      "audio": "audio/kiss%20me%2Ckiss%20me.mp3",
+      "image": null
+    },
+    {
       "sourceFile": "audio/poison.mp3",
       "title": "poison",
       "audio": "audio/poison.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/Suger bite new Edition.mp3",
+      "title": "Suger bite new Edition",
+      "audio": "audio/Suger%20bite%20new%20Edition.mp3",
       "image": null
     },
     {
