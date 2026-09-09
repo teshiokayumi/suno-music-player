@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:42:49.292Z",
+  "generatedAt": "2026-09-09T20:45:14.905Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -141,6 +141,12 @@
       "sourceFile": "audio/愛はいつもv6.mp3",
       "title": "愛はいつもv6",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82v6.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/交わらない運命.mp3",
+      "title": "交わらない運命",
+      "audio": "audio/%E4%BA%A4%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E9%81%8B%E5%91%BD.mp3",
       "image": null
     }
   ]
