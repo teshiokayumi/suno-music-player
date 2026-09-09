@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T07:33:58.537Z",
+  "generatedAt": "2026-09-09T20:37:53.844Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -12,6 +12,10 @@
       "title": "愛はいつも (dramatic)",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%20doramtic.mp3",
       "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつもインストゥルメンタル.mp3",
+      "error": "file not found"
     },
     {
       "sourceFile": "audio/インストゥルメンタル愛はいつも.mp3",
@@ -86,9 +90,27 @@
       "image": null
     },
     {
+      "sourceFile": "audio/10秒前の戸惑いsuger tail esition.mp3",
+      "title": "10秒前の戸惑いsuger tail esition",
+      "audio": "audio/10%E7%A7%92%E5%89%8D%E3%81%AE%E6%88%B8%E6%83%91%E3%81%84suger%20tail%20esition.mp3",
+      "image": null
+    },
+    {
       "sourceFile": "audio/COOL！.mp3",
       "title": "COOL！",
       "audio": "audio/COOL%EF%BC%81.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/poison.mp3",
+      "title": "poison",
+      "audio": "audio/poison.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/wondering.mp3",
+      "title": "wondering",
+      "audio": "audio/wondering.mp3",
       "image": null
     },
     {
@@ -101,6 +123,12 @@
       "sourceFile": "audio/愛はいつもbigband.mp3",
       "title": "愛はいつもbigband",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82bigband.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつもv6.mp3",
+      "title": "愛はいつもv6",
+      "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82v6.mp3",
       "image": null
     }
   ]
