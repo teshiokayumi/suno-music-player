@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:45:14.905Z",
+  "generatedAt": "2026-09-10T09:01:42.786Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -12,6 +12,10 @@
       "title": "愛はいつも (dramatic)",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%20doramtic.mp3",
       "image": null
+    },
+    {
+      "sourceFile": "audio/愛はいつもインストゥルメンタル.mp3",
+      "error": "file not found"
     },
     {
       "sourceFile": "audio/インストゥルメンタル愛はいつも.mp3",
@@ -98,6 +102,12 @@
       "image": null
     },
     {
+      "sourceFile": "audio/COOL！v6.mp3",
+      "title": "COOL！v6",
+      "audio": "audio/COOL%EF%BC%81v6.mp3",
+      "image": null
+    },
+    {
       "sourceFile": "audio/kiss me,kiss me.mp3",
       "title": "kiss me,kiss me",
       "audio": "audio/kiss%20me%2Ckiss%20me.mp3",
@@ -137,6 +147,12 @@
       "sourceFile": "audio/愛はいつもv6.mp3",
       "title": "愛はいつもv6",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82v6.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/月蝕──エクリプスv6.mp3",
+      "title": "月蝕──エクリプスv6",
+      "audio": "audio/%E6%9C%88%E8%9D%95%E2%94%80%E2%94%80%E3%82%A8%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B9v6.mp3",
       "image": null
     },
     {
