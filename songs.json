@@ -1,5 +1,5 @@
 {
-  "comment": "ここに曲を追加してください。file に audio/ フォルダ内のmp3を指定します（title で表示名、image でジャケット画像、pageUrl でSunoリンクを指定できます）。audio/ フォルダに入れただけの未登録mp3も自動でプレイリスト末尾に追加されます。旧形式の url（Suno共有リンク）も書けますが、現在Sunoは外部再生をブロックしているため再生できません。",
+  "comment": "ここに曲を追加してください。file に audio/ フォルダ内のmp3を指定します.（title で表示名、image でジャケット画像、pageUrl でSunoリンクを指定できます）。audio/ フォルダに入れただけの未登録mp3も自動でプレイリスト末尾に追加されます。旧形式の url（Suno共有リンク）も書けますが、現在Sunoは外部再生をブロックしているため再生できません。",
   "songs": [
     { "file": "audio/愛はいつもstudiomix.mp3", "title": "愛はいつも (studio mix)" },
     { "file": "audio/愛はいつも doramtic.mp3", "title": "愛はいつも (dramatic)" },
