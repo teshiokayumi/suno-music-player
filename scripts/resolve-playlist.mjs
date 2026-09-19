@@ -185,7 +185,7 @@ async function main() {
     await new Promise((r) => setTimeout(r, 1500));
   }
 
-  /*// audio/ フォルダ内で songs.json に未登録の音声ファイルを末尾に自動追加
+  // audio/ フォルダ内で songs.json に未登録の音声ファイルを末尾に自動追加
   try {
     const listed = new Set(
       tracks.filter((t) => t.sourceFile).map((t) => t.sourceFile)
@@ -202,7 +202,7 @@ async function main() {
     }
   } catch {
     // audio/ フォルダが無い場合は何もしない
-  }*/
+  }
 
   const playlist = {
     generatedAt: new Date().toISOString(),
