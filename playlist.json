@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:44:37.207Z",
+  "generatedAt": "2026-09-25T20:56:33.518Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -93,6 +93,12 @@
       "sourceFile": "audio/10秒前の戸惑いsuger tail esition.mp3",
       "title": "10秒前の戸惑いsuger tail esition",
       "audio": "audio/10%E7%A7%92%E5%89%8D%E3%81%AE%E6%88%B8%E6%83%91%E3%81%84suger%20tail%20esition.mp3",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/Beautifully Rotten Boy noizy Version.mp3",
+      "title": "Beautifully Rotten Boy noizy Version",
+      "audio": "audio/Beautifully%20Rotten%20Boy%20noizy%20Version.mp3",
       "image": null
     },
     {
