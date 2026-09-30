@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:52:32.668Z",
+  "generatedAt": "2026-09-30T07:56:44.706Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -152,6 +152,12 @@
       "image": null
     },
     {
+      "sourceFile": "audio/セピア色の恋心 Suger Tail Edition.mp3",
+      "title": "セピア色の恋心 Suger Tail Edition",
+      "audio": "audio/%E3%82%BB%E3%83%94%E3%82%A2%E8%89%B2%E3%81%AE%E6%81%8B%E5%BF%83%20Suger%20Tail%20Edition.mp3",
+      "image": null
+    },
+    {
       "sourceFile": "audio/愛はいつも.mp3",
       "title": "愛はいつも",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82.mp3",
@@ -191,6 +197,12 @@
       "sourceFile": "audio/氷の檻とガラスの一撃「道迷い」.wav",
       "title": "氷の檻とガラスの一撃「道迷い」",
       "audio": "audio/%E6%B0%B7%E3%81%AE%E6%AA%BB%E3%81%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E4%B8%80%E6%92%83%E3%80%8C%E9%81%93%E8%BF%B7%E3%81%84%E3%80%8D.wav",
+      "image": null
+    },
+    {
+      "sourceFile": "audio/僕を繋ぐ鎖.mp3",
+      "title": "僕を繋ぐ鎖",
+      "audio": "audio/%E5%83%95%E3%82%92%E7%B9%8B%E3%81%90%E9%8E%96.mp3",
       "image": null
     }
   ]
