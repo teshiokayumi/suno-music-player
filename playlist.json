@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:59:39.245Z",
+  "generatedAt": "2026-09-30T08:41:39.890Z",
   "tracks": [
     {
       "sourceFile": "audio/愛はいつもstudiomix.mp3",
@@ -173,12 +173,6 @@
       "sourceFile": "audio/愛はいつもv6.mp3",
       "title": "愛はいつもv6",
       "audio": "audio/%E6%84%9B%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82v6.mp3",
-      "image": null
-    },
-    {
-      "sourceFile": "audio/愛憎SugerTail.mp3",
-      "title": "愛憎SugerTail",
-      "audio": "audio/%E6%84%9B%E6%86%8ESugerTail.mp3",
       "image": null
     },
     {
